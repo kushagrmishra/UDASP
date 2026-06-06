@@ -151,7 +151,7 @@ This research is in active development. The full paper is available on request.
 
 If referencing this work:
 ```
-[Your Name]. (2026). UADSP: Uncertainty-Anchored Distributed Storage Protocol.
+Kushagr Mishra. (2026). UADSP: Uncertainty-Anchored Distributed Storage Protocol.
 Independent Research, v1.0. Draft.
 ```
 
@@ -159,13 +159,13 @@ Independent Research, v1.0. Draft.
 
 ## License
 
-Copyright © 2026 [Your Name]. All Rights Reserved.
+Copyright © 2026 Kushagr Mishra. All Rights Reserved.
 
 This work — including the UADSP framework, all named protocols (UADSP-CORE, CRRS, CRRS 2D, EPI DEFENDER, Silent Absorption Model, Morphic Hopping), the Timestamp Indistinguishability Theorem, and all associated documentation — is the intellectual property of the author.
 
 No part of this repository may be reproduced, distributed, transmitted, adapted, or built upon in any form or by any means — including but not limited to copying, publishing, presenting, or incorporating into other works — without the express prior written permission of the author.
 
-For licensing inquiries: [your.email@university.edu]
+For licensing inquiries: Kushagr.mishra@dxb.manipal.edu
 
 ---
 
